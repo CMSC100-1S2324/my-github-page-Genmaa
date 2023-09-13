@@ -9,6 +9,6 @@ Steps on how to create a GitHub page:
 4. Go to settings->pages then select a branch domain and input your custom domain(live website link)
 5. Save
 What are your key takeaways from this exercise?
-Organize your div elements properly and their hierarchies. also provide an easy to understand class names to avoid confusion then take it step by step.
+Organize your div elements properly and their hierarchies. Also, provide an easy to understand class names to avoid confusion then take it step by step and enjoy designing while exploring new things. 
 
 
